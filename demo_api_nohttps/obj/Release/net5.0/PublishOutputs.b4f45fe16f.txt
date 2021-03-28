@@ -1,0 +1,11 @@
+/app/demo_api_nohttps
+/app/appsettings.Development.json
+/app/appsettings.json
+/app/demo_api_nohttps.dll
+/app/demo_api_nohttps.deps.json
+/app/demo_api_nohttps.runtimeconfig.json
+/app/demo_api_nohttps.pdb
+/app/Microsoft.OpenApi.dll
+/app/Swashbuckle.AspNetCore.Swagger.dll
+/app/Swashbuckle.AspNetCore.SwaggerGen.dll
+/app/Swashbuckle.AspNetCore.SwaggerUI.dll
